@@ -54,14 +54,15 @@ to better capture the small impact of state ownership on market risk.
    cd Thesis-BSc-in-Economics-Tilburg-University-Marco-Tancredi-Clerici
    ```
 
-2. Set up a Python environment (e.g., using `venv` or `conda`):
+2. Set up Jupiter Notebook, which is a Python environment, and can be installe following this link:
 
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # or venv\Scripts\activate on Windows
+   https://jupyter.org/install#jupyter-notebook
+
+3. Install required packages, specified at the beginning of each Python code file, by running the following commmand in the cell of Jupyter Notebook:
+
+ ```bash
+   !pip install packagename
    ```
-
-3. Install required packages (if a `requirements.txt` is provided):
 
 4. Navigate to any of the Python script folders and run the notebooks or scripts as needed.
 
