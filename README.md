@@ -54,7 +54,7 @@ to better capture the small impact of state ownership on market risk.
    cd Thesis-BSc-in-Economics-Tilburg-University-Marco-Tancredi-Clerici
    ```
 
-2. Set up Jupiter Notebook, which is a Python environment, and can be installe following this link:
+2. Set up Jupiter Notebook, which is a Python environment, and can be installed following this link:
 
    https://jupyter.org/install#jupyter-notebook
 
